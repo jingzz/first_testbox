@@ -1,0 +1,15 @@
+# ANDROID IGNORES
+# Bulit application files
+*.apk
+*.ap_
+
+
+# Files for the VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
