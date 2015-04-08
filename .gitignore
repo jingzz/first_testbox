@@ -3,6 +3,7 @@
 *.apk
 *.ap_
 
+# just add a comments
 
 # Files for the VM
 *.dex
